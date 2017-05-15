@@ -5,4 +5,6 @@
     include_once 'page1.php';
     require 'page1.php';
     require_once 'page1.php';
+echo 'essaie';
+
 ?>
